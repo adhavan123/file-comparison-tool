@@ -1,0 +1,114 @@
+[
+    {
+        "timestamp": "2026-09-29 12:07:35.045335",
+        "fileA": "SWITCH 817554_STATUS_0.csv",
+        "fileB": "DCMS 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-29 12:07:52.904731",
+        "fileA": "SWITCH 817554_STATUS_0.csv",
+        "fileB": "DCMS 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-29 17:05:04.779137",
+        "fileA": "DCMS 817554_STATUS_0.csv",
+        "fileB": "SWITCH 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-30 10:31:15.266701",
+        "fileA": "SWITCH 817554_STATUS_0.csv",
+        "fileB": "DCMS 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-30 10:46:07.174466",
+        "fileA": "New Text Document1.txt",
+        "fileB": "New Text Document2.txt",
+        "rowsCompared": 3,
+        "differences": 2,
+        "matchPercentage": 33.33
+    },
+    {
+        "timestamp": "2026-09-30 10:47:16.563771",
+        "fileA": "New Text Document1.txt",
+        "fileB": "New Text Document2.txt",
+        "rowsCompared": 3,
+        "differences": 2,
+        "matchPercentage": 33.33
+    },
+    {
+        "timestamp": "2026-09-30 11:40:39.514953",
+        "fileA": "New Text Document1.txt",
+        "fileB": "New Text Document2.txt",
+        "rowsCompared": 3,
+        "differences": 2,
+        "matchPercentage": 33.33
+    },
+    {
+        "timestamp": "2026-09-30 12:37:17.721075",
+        "fileA": "New Text Document1.txt",
+        "fileB": "New Text Document2.txt",
+        "rowsCompared": 3,
+        "differences": 2,
+        "matchPercentage": 33.33
+    },
+    {
+        "timestamp": "2026-09-30 13:14:42.461170",
+        "fileA": "DCMS 817554_STATUS_0.csv",
+        "fileB": "SWITCH 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-30 13:15:45.158744",
+        "fileA": "DCMS 817554_STATUS_0.csv",
+        "fileB": "SWITCH 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-30 13:16:07.952370",
+        "fileA": "DCMS 817554_STATUS_0.csv",
+        "fileB": "SWITCH 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-09-30 13:16:28.882345",
+        "fileA": "DCMS 817554_STATUS_0.csv",
+        "fileB": "SWITCH 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-10-07 17:24:38.804521",
+        "fileA": "SWITCH 817554_STATUS_0.csv",
+        "fileB": "DCMS 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    },
+    {
+        "timestamp": "2026-10-07 17:25:15.305946",
+        "fileA": "SWITCH 817554_STATUS_0.csv",
+        "fileB": "DCMS 817554_STATUS_0.csv",
+        "rowsCompared": 1000,
+        "differences": 1000,
+        "matchPercentage": 0.0
+    }
+]

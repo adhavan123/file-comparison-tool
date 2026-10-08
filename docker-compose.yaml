@@ -1,0 +1,12 @@
+services:
+   filecomparison:
+       image: filecompariosn:v1
+       container_name: filecomparison
+       ports:
+         - 8150:8501
+    
+   file:
+      image: filecompariosn:v2
+      container_name: file
+      ports:
+        - 8122:8501    
